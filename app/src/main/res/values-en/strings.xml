@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mental Counting</string>
+    <string name="new_game_button">New Game</string>
+    <string name="score_button">Score</string>
+    <string name="clear_button">Clear</string>
+    <string name="button_0">0</string>
+    <string name="button_1">1</string>
+    <string name="button_2">2</string>
+    <string name="button_3">3</string>
+    <string name="button_4">4</string>
+    <string name="button_5">5</string>
+    <string name="button_6">6</string>
+    <string name="button_7">7</string>
+    <string name="button_8">8</string>
+    <string name="button_9">9</string>
+    <string name="delete_button">(-)</string>
+    <string name="validate_button">OK</string>
+    <string name="score_toolbar">Score :</string>
+    <string name="possibleErrors_toolbar">Possible errors :</string>
+</resources>

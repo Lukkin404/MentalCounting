@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    toolbar.setTitle("");
+    <item
+        android:id="@+id/toolbarScore"
+        android:title="@string/score_toolbar"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/toolbarPossibleErrors"
+        android:title="@string/possibleErrors_toolbar"
+        app:showAsAction="ifRoom" />
+</menu>
