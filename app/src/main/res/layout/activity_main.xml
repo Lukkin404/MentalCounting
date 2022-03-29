@@ -17,13 +17,13 @@
         app:layout_constraintEnd_toEndOf="@id/constraintLayout">
 
         <Button
-            android:id="@+id/bouton_nouvelle_partie"
+            android:id="@+id/new_game_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/new_game_button" />
 
         <Button
-            android:id="@+id/bouton_score"
+            android:id="@+id/score_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/score_button" />
