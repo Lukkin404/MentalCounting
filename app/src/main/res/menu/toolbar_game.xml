@@ -1,13 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:android="http://schemas.android.com/apk/res/android">
-    toolbar.setTitle("");
-    <item
-        android:id="@+id/toolbarScore"
-        android:title="@string/score_toolbar"
-        app:showAsAction="ifRoom" />
-    <item
-        android:id="@+id/toolbarPossibleErrors"
-        android:title="@string/possibleErrors_toolbar"
-        app:showAsAction="ifRoom" />
+<menu xmlns:tools="http://schemas.android.com/tools"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item
+    android:id="@+id/score_menu_button"
+    android:title="@string/score"
+    app:showAsAction="always"
+    />
+
+<item
+    android:id="@+id/score_menu_count"
+    android:title="@string/zero_score"
+    app:showAsAction="always" />
+
+<item
+    android:id="@+id/life"
+    android:title="@string/life"
+    app:showAsAction="always" />
+
+
+<item
+    android:id="@+id/life_count"
+    android:title="@string/three_lives"
+    app:showAsAction="always" />
+
+
+
+<item
+    android:id="@+id/back_menu_button"
+    android:title="@string/previous" />
+<item
+    android:id="@+id/delete_menu_button"
+    android:title="@string/clear_button" />
+
+
 </menu>

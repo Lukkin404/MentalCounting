@@ -7,4 +7,12 @@
     <string name="score_toolbar">Score :</string>
     <string name="possibleErrors_toolbar">Possible errors :</string>
     <string name="ERREUR_TROP_GRAND">Too long value</string>
+    <string name="user_answer">Answer</string>
+    <string name="top_one">"Top 1 : "</string>
+    <string name="top_two">"Top 2 : "</string>
+    <string name="top_three">"Top 3 : "</string>
+    <string name="previous">Previous</string>
+    <string name="score">Score</string>
+    <string name="zero_score">0</string>
+    <string name="three_lives">3</string>
 </resources>

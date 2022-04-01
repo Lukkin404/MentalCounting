@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="score_menu" type="id" />
+    <item name="life_number" type="id" />
+    <item name="textView_reponse" type="id" />
+    <item name="operation" type="id" />
+    <item name="userInput" type="id" />
+    <item name="clear_button" type="id" />
+    <item name="oppose_button" type="id" />
+    <item name="submit_button" type="id" />
+    <item name="score_menu_button" type="id" />
+    <item name="back_menu_button" type="id" />
+    <item name="delete_menu_button" type="id" />
+    <item name="previous_button" type="id" />
+</resources>

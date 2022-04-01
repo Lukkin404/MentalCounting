@@ -18,4 +18,13 @@
     <string name="new_game_button">Nouvelle Partie</string>
     <string name="app_name">Calcul Mental</string>
     <string name="ERREUR_TROP_GRAND">Valeur trop grande</string>
+    <string name="user_answer">Réponse</string>
+    <string name="previous">Retour</string>
+    <string name="top_one">"Top 1 : "</string>
+    <string name="top_two">"Top 2 : "</string>
+    <string name="top_three">"Top 3 : "</string>
+    <string name="score">Score</string>
+    <string name="life">Vie</string>
+    <string name="zero_score">0</string>
+    <string name="three_lives">3</string>
 </resources>

@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".GameActivity">
+    tools:context=".Activities.GameActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -18,7 +18,18 @@
             android:layout_weight="1"
             android:gravity="center"
             android:text="TextView"
-            android:textSize="80sp" />
+            android:textSize="80sp"
+            android:textAlignment="center" />
+
+        <TextView
+            android:id="@+id/textView_reponse"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/user_answer"
+            android:textAlignment="center"
+            android:textSize="40sp" />
 
         <LinearLayout
             android:layout_width="match_parent"

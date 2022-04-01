@@ -3,9 +3,7 @@ package com.example.mentalcounting;
 public enum TypeOperationEnum {
     ADD("+"),
     SUBSTRACT("-"),
-    MULTIPLY("x"),
-    DIVIDE("/");
-
+    MULTIPLY("x");
 
     private String symbol;
 
